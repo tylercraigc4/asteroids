@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+// Ships
 // Put your ship methods here
 Ship :: Ship()
 {
