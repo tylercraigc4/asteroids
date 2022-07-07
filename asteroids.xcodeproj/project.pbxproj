@@ -56,6 +56,8 @@
 		A72E7A0920EEA686003D6871 /* uiDraw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = uiDraw.h; sourceTree = "<group>"; };
 		A72E7A1720EED18E003D6871 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
 		A72E7A1920EED196003D6871 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		A75D3B5A2873576C001AC383 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A77CA7B0287667A100FC369E /* asteroids.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = asteroids.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 		A72E79EF20EEA4BC003D6871 /* asteroids */ = {
 			isa = PBXGroup;
 			children = (
+				A77CA7B0287667A100FC369E /* asteroids.gif */,
 				A72E7A0220EEA685003D6871 /* bullet.cpp */,
 				A72E79FE20EEA685003D6871 /* bullet.h */,
 				A72E7A0520EEA685003D6871 /* driver.cpp */,
@@ -110,6 +113,7 @@
 				A72E79F920EEA684003D6871 /* uiInteract.h */,
 				A72E79FC20EEA684003D6871 /* velocity.cpp */,
 				A72E79FD20EEA685003D6871 /* velocity.h */,
+				A75D3B5A2873576C001AC383 /* README.md */,
 			);
 			path = asteroids;
 			sourceTree = "<group>";
